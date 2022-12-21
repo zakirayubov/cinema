@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Cinema</string>
+    <string name="home">home</string>
+    <string name="play">play</string>
+    <string name="search">search</string>
+    <string name="account">account</string>
+    <string name="film1">film1</string>
+    <string name="button">Button</string>
+    <string name="film2">film2</string>
 </resources>
